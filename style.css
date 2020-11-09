@@ -39,15 +39,9 @@ img {
   background-color: red;
 }
 
-div {
-  background-color: red;
-  text-align: center;
+#details div{
   float: left;
+  background-color: red;
   width: 25%;
-
-
-}
-
-#details {
-  display: block;
+  text-align: center;
 }
