@@ -10,8 +10,9 @@ header {
 }
 
 nav a {
-  background-color: lightgrey;
-  padding: 10px;
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
 }
 
 figcaption {
